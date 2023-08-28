@@ -59,4 +59,7 @@ function getJSON(url, callback) {
   window.onload = function () {
     updateContent();
   };
+
+  let instagramAppSecretKey = "f00974b4799a2487c33eaba9b75400be";
+  let instagramToken = "IGQWRPNGdvNTM5cmxRMzRCbjc2TUVCbFhzUUp3THEzVlNrY3JmUlVuQnpfemFiYm42WFI1Mk02WVVrZA3NtR043dVoxN21oSk9NdUVxMHk5RTNnRjM3amYzelNqTFBCSTBEQVJITmh1bU53dnVYVkxNTUhJTU9mRW8ZD";
   
